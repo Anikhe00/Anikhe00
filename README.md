@@ -1,5 +1,5 @@
-<!-- Profile Header -->
-## Hello 👋
+### Hello 👋
+
 I'm Shakirat, a Design Engineer based in Nigeria.
 I blend design and code to build purposeful digital experiences.  
 
